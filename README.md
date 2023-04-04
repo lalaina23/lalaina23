@@ -2,8 +2,14 @@
 
 <!--
 **lalaina23/lalaina23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+hi je suis lalaina, je suis actuellement apprenante sur la plateforme sayna, et je compte bien approfondir mes connaissances en digitale numérique
+le code m'intersse mais je ne suis pas encore une professionnele
+je traille actuellement en local
+mais j'apprend les bases sur sayna
+je cherche à collaborer avec les professionnels 
+voici mon contact: lalainaheriandria@gmail.com
+more about me:https://www.linkedin.com/in/lalaina-andria-38947020b/
+--> je serai ravi de faire des échanges avec ceux qui seront intéressés
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -14,3 +20,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
